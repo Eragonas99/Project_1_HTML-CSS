@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+img {
+    width: 750px;
+}
